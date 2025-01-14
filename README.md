@@ -6,7 +6,7 @@
 <p>A debugger has been found running in your system.</p>
 
 <h1>Programming Projects</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matsec-dev&show_icons=true&locale=en" alt="matsec-dev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matsec-dev&show_icons=true&locale=en&layout=compact" alt="matsec-dev" /></p>
 
 <h2>🚀 Other Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
