@@ -4,7 +4,11 @@
 
 <h1>Just Security Things........</h1>
 <p>A debugger has been found running in your system.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+
+<h1>Programming Projects</h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matsec-dev&show_icons=true&locale=en" alt="matsec-dev" /></p>
+
+<h2>🚀 Other Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
