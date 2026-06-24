@@ -8,7 +8,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/MATSEC-dev/MATSEC-dev/output/github-snake.svg" />
 </picture>
 
-<h1>👾 Just Security Things........</h1>
+<h1>👾 Just Security Things.......</h1>
 <p>A debugger has been found running in your system.</p>
 
 <h1>👨‍💻 Programming Languages</h1>
